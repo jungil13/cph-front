@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex items-center justify-center md:bg-teal-900 lg:bg-pastel-green bg-white">
+  <div class="min-h-screen flex items-center justify-center md:bg-teal-900 lg:bg-pastel-green bg-white mt-8">
     <div class="flex w-full max-w-4xl sm:shadow-lg sm:shadow-black sm:rounded-lg">
       <!-- Image and Text Section - Hidden on mobile -->
       <div class="hidden lg:block lg:w-1/2 p-12 bg-white lg:rounded-l-lg">
