@@ -1,5 +1,5 @@
 <template>
-  `` <div class="min-h-screen flex items-center justify-center md:bg-teal-800 mt-8 bg-white">
+  `` <div class="min-h-screen flex items-center justify-center md:bg-teal-800 mt-16 bg-white">
     <div class="w-full max-w-lg p-8 space-y-6 bg-white rounded-lg shadow-xl">
       <div class="text-right">
         <router-link to="/login" class="text-sm text-teal-600 hover:text-teal-700">Already have an account? Sign in
