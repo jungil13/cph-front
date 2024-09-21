@@ -3,7 +3,7 @@
     <div class="container mx-auto flex items-center justify-between px-4 md:px-6">
       <!-- Logo and Site Name -->
       <RouterLink to="/" class="flex items-center text-lg font-semibold text-gray-600">
-        <img src="/cphlogo.png" alt="Cordova Pet Hub Logo" class="w-24 h-24 mr-3 object-cover" />
+       <img src="/cphlogo.png" alt="Cordova Pet Hub Logo" class="w-15 h-20 mr-3 object-cover" />
         <p class="text-md font-sans font-extrabold text-gray-700">
           <span class="hidden md:inline">Cordova</span>
           <span class="hidden md:inline text-teal-700">Pet Hub</span>
